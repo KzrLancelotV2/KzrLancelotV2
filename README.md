@@ -25,7 +25,7 @@
 
 <div align="center" style="color: #4da6ff;">
   <img src="https://media.tenor.com/2UkHz5-9U6UAAAAj/kaguya-sama-love-is-war-anime.gif" alt="Kaguya-sama GIF" width="50" height="50"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Iceberg&size=25&duration=100&pause=20color=4da6ff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=900&lines=Exploring+Network%2BScience,+Link+Prediction,+Machine+Learning+and+AI+(●ˇ∀ˇ●)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Iceberg&size=25&duration=100&pause=20color=4da6ff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=900&lines=Exploring+Network+Science,+Link+Prediction,+Machine+Learning+and+AI+(●ˇ∀ˇ●)" alt="Typing SVG" />
   <img src="https://media.tenor.com/cCuJMyBKNQsAAAAj/chika-dance.gif" alt="Chika Dance" width="50" height="50" />
 </div>
 
