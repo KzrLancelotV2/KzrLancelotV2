@@ -26,7 +26,7 @@
 <hr style="border: 1px solid #a64dff;" />
 
 <h2 align="center" style="color: #ff4dff;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Iceberg&size=45&duration=10&pause=10&color=FFC9E8FF&background=6EFF3200&center=true&vCenter=true&multiline=true&width=500&height=100&lines=+📩Mail+me+(⌐■_■)" alt="Mail" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=45&duration=10&pause=10&color=FFC9E8FF&background=6EFF3200&center=true&vCenter=true&multiline=true&width=500&height=100&lines=+📩Mail+me+(⌐■_■)" alt="Mail" />
 </h2>
 
 
