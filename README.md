@@ -56,21 +56,26 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp" alt="Skills: Python, C, C++" />
-  <img src="https://media1.tenor.com/m/T2sk5f5h1UgAAAAC/peach-and-goma-peach-goma.gif" alt="Peach and Goma GIF" width="50" height="50" />
+  <img src="https://media1.tenor.com/m/T2sk5f5h1UgAAAAC/peach-and-goma-peach-goma.gif" alt="Peach and Goma GIF" width="50" height="75" />
 </div>
 
 
 <hr style="border: 1px solid #a64dff;" />
 
 
-<div align="center">
-  <h2 style="color: #ff4dff;">
+<div align="center" style="display: flex; align-items: center;">
+  <img src="https://media.tenor.com/km-lY7Mlqc4AAAAj/typing-pepe-the-frog.gif" alt="Typing Pepe GIF" width="50" height="50" />
+  <h2 style="color: #ff4dff; margin: 0 10px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2000&pause=500&color=ff4dff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=500&lines=+My+Snake+(✿◡‿◡)+%F0%9F%90%8D" alt="Typing SVG" />
   </h2>
-  <br/>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
 </div>
+<br/>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+
+
 
 <hr style="border: 1px solid #4dffff;" />
 
