@@ -20,7 +20,7 @@
 </h2>
 
 <div align="center" style="color: #4da6ff;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Iceberg&size=25&duration=15&pause=50color=4da6ff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=900&lines=Exploring+Network%2BScience,+Link+Prediction,+Machine+Learning+and+AI+(●ˇ∀ˇ●)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Iceberg&size=25&duration=100&pause=20color=4da6ff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=900&lines=Exploring+Network%2BScience,+Link+Prediction,+Machine+Learning+and+AI+(●ˇ∀ˇ●)" alt="Typing SVG" />
 </div>
 
 <hr style="border: 1px solid #a64dff;" />
