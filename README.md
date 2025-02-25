@@ -10,8 +10,12 @@
 </h2>
 
 <h3 align="center" style="color: #a64dff;">
+  <img src="https://media.tenor.com/mvtw4AxWpgwAAAAj/pepe-le-pew-rotate.gif" alt="Pepe Rotate GIF" width="50" height="50" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=30&duration=3000&pause=500&color=a64dff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=500&height=100&repeat=false&lines=Computer+Science;University+of+Tehran" alt="Computer Science at University of Tehran" />
+  <img src="https://media.tenor.com/bw4mKWWIA5IAAAAj/peepo-pepe-the-frog.gif" alt="Pepe GIF" width="50" height="50" />
 </h3>
+
+
 
 <hr style="border: 1px solid #ff4dff;" />
 
@@ -20,14 +24,22 @@
 </h2>
 
 <div align="center" style="color: #4da6ff;">
+  <img src="https://media.tenor.com/2UkHz5-9U6UAAAAj/kaguya-sama-love-is-war-anime.gif" alt="Kaguya-sama GIF" width="50" height="50"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Iceberg&size=25&duration=100&pause=20color=4da6ff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=900&lines=Exploring+Network%2BScience,+Link+Prediction,+Machine+Learning+and+AI+(●ˇ∀ˇ●)" alt="Typing SVG" />
+  <img src="https://media.tenor.com/cCuJMyBKNQsAAAAj/chika-dance.gif" alt="Chika Dance" width="50" height="50" />
 </div>
 
 <hr style="border: 1px solid #a64dff;" />
 
 <h2 align="center" style="color: #ff4dff;">
+  <img src="https://media.tenor.com/3kPGZrOLeiUAAAAj/pepe-the-frog-dancing.gif" alt="Pepe Dancing GIF" width="50" height="50" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=45&duration=15&pause=50&color=FFC9E8FF&background=6EFF3200&center=true&vCenter=true&multiline=true&width=500&height=100&lines=+📩Mail+me+(⌐■_■)" alt="Mail" />
+  <img src="https://media.tenor.com/o6R3yPv2Ri0AAAAj/ritz-balls-soyjak.gif" alt="Ritz Balls Soyjak GIF" width="50" height="50" />
 </h2>
+
+
+
+
 
 
 <div align="center"> 
@@ -44,9 +56,12 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp" alt="Skills: Python, C, C++" />
+  <img src="https://media1.tenor.com/m/T2sk5f5h1UgAAAAC/peach-and-goma-peach-goma.gif" alt="Peach and Goma GIF" width="50" height="50" />
 </div>
 
+
 <hr style="border: 1px solid #a64dff;" />
+
 
 <div align="center">
   <h2 style="color: #ff4dff;">
@@ -64,9 +79,14 @@
 </h2>
 
 <div align="center">
+  <img src="https://media.tenor.com/8RrxHRlcVSMAAAAi/pepe-intello.gif" alt="Pepe Intello GIF" width="50" height="50" />
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=KzrLancelotV2&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <br/>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzrLancelotV2&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <img src="https://media.tenor.com/zWCFMJWI1UIAAAAi/pepe-the-frog-not-my-problem.gif" alt="Pepe Not My Problem GIF" width="100" height="100" />
 </div>
+
+
+
 
 <hr style="border: 1px solid #ff4dff;" />
