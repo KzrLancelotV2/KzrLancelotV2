@@ -50,10 +50,10 @@
 
 <div align="center">
   <h2 style="color: #ff4dff;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2000&pause=500&color=ff4dff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=500&lines=%F0%9F%90%8D+My+Contributions+(✿◡‿◡)+%F0%9F%90%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2000&pause=500&color=ff4dff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=500&lines=+My+Snake+(✿◡‿◡)+%F0%9F%90%8D" alt="Typing SVG" />
   </h2>
   <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KzrLancelotV2/kzrLancelotV2/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
 </div>
 
