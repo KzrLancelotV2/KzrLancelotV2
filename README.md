@@ -20,13 +20,13 @@
 </h2>
 
 <div align="center" style="color: #4da6ff;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Iceberg&size=25&duration=1&pause=20&color=4da6ff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=900&lines=Exploring+Network%2BScience,+Link+Prediction,+Machine+Learning+and+AI+(●ˇ∀ˇ●)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Iceberg&size=25&duration=15&pause=50color=4da6ff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=900&lines=Exploring+Network%2BScience,+Link+Prediction,+Machine+Learning+and+AI+(●ˇ∀ˇ●)" alt="Typing SVG" />
 </div>
 
 <hr style="border: 1px solid #a64dff;" />
 
 <h2 align="center" style="color: #ff4dff;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=45&duration=10&pause=10&color=FFC9E8FF&background=6EFF3200&center=true&vCenter=true&multiline=true&width=500&height=100&lines=+📩Mail+me+(⌐■_■)" alt="Mail" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=45&duration=15&pause=50&color=FFC9E8FF&background=6EFF3200&center=true&vCenter=true&multiline=true&width=500&height=100&lines=+📩Mail+me+(⌐■_■)" alt="Mail" />
 </h2>
 
 
@@ -50,7 +50,7 @@
 
 <div align="center">
   <h2 style="color: #ff4dff;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2000&pause=150&color=ff4dff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=500&lines=%F0%9F%90%8D+My+Contributions+(✿◡‿◡)+%F0%9F%90%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2000&pause=500&color=ff4dff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=500&lines=%F0%9F%90%8D+My+Contributions+(✿◡‿◡)+%F0%9F%90%8D" alt="Typing SVG" />
   </h2>
   <br/>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
