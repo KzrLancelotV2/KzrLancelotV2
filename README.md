@@ -70,6 +70,7 @@
   </h2>
 </div>
 <br/>
+
 <div align="center">
   ![snake gif](https://github.com/KzrLancelotV2/KzrLancelotV2/blob/output/github-snake-dark.svg)
 </div>
