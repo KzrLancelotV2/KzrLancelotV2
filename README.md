@@ -88,9 +88,9 @@
 
 <div align="center">
   <img src="https://media.tenor.com/8RrxHRlcVSMAAAAi/pepe-intello.gif" alt="Pepe Intello GIF" width="50" height="50" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=KzrLancelotV2&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzrLancelotV2&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=KzrLancelotV2&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
+<br/>
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzrLancelotV2&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   <img src="https://media.tenor.com/zWCFMJWI1UIAAAAi/pepe-the-frog-not-my-problem.gif" alt="Pepe Not My Problem GIF" width="100" height="100" />
 </div>
 
