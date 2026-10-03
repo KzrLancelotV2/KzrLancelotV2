@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="42" viewBox="0 0 1000 42">
+<defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 2H4" stroke="#000" stroke-opacity=".35"/></pattern>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#00f5ff" stroke-opacity=".09"/></pattern>
+<pattern id="hazard" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="14" height="28" fill="#dfff00"/><rect x="14" width="14" height="28" fill="#08000f"/></pattern>
+<linearGradient id="neon"><stop stop-color="#00f5ff"/><stop offset=".45" stop-color="#ff00a8"/><stop offset="1" stop-color="#dfff00"/></linearGradient>
+<filter id="glow" x="-.4" y="-.6" width="1.8" height="2.2"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs><rect width="1000" height="42" fill="#08000f"/><path d="M0 40H1000" stroke="#ff00a8" stroke-width="2"/>
+<g><animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="16s" repeatCount="indefinite"/>
+<text x="0" y="27" fill="#dfff00" font-family="Consolas,monospace" font-weight="bold" font-size="16" letter-spacing="2">WELCOME TO THE NEON ZONE /// KEEP SCROLLING /// CODE MEETS LIFE /// </text><text x="1000" y="27" fill="#dfff00" font-family="Consolas,monospace" font-weight="bold" font-size="16" letter-spacing="2">WELCOME TO THE NEON ZONE /// KEEP SCROLLING /// CODE MEETS LIFE /// </text><text x="2000" y="27" fill="#dfff00" font-family="Consolas,monospace" font-weight="bold" font-size="16" letter-spacing="2">WELCOME TO THE NEON ZONE /// KEEP SCROLLING /// CODE MEETS LIFE /// </text></g><rect width="1000" height="42" fill="url(#scan)"/></svg>
