@@ -1,70 +1,100 @@
-<!-- Animated signs: https://github.com/DenverCoder1/readme-typing-svg -->
-<!-- Keep URLs percent-encoded and escape ampersands in HTML attributes. -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=DotGothic16&amp;size=40&amp;duration=1500&amp;pause=700&amp;color=FF10F0&amp;background=0D1117FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;height=80&amp;lines=Hi+There%21+%28%EF%BC%BE%E2%97%A1%EF%BC%BE%29%E3%81%A3%3BI%27m+Kasra+Ghorbani%21%3B%E4%BD%A0%E5%A5%BD%21+%28%EF%BE%89%E2%89%A7%E2%88%80%E2%89%A6%29%EF%BE%89%3B%E6%88%91%E6%98%AFKasra+Ghorbani%21%3B%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%21+%28%5E%E2%96%BD%5E%29%2F%3BKasra+Ghorbani%E3%81%A7%E3%81%99%21%3BHola%21+%28%E3%80%9C%EF%BF%A3%E2%96%BD%EF%BF%A3%29%E3%80%9C%3BSoy+Kasra+Ghorbani%21%3BHallo%21+%28%2A%E2%89%A7%CF%89%E2%89%A6%29%E3%83%8E%3BIch+bin+Kasra+Ghorbani%21%3B%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21+%28o%5E%E2%96%BD%5Eo%29%3B%D0%AF+%D0%9A%D0%B0%D1%81%D1%80%D0%B0+%D0%93%D0%BE%D1%80%D0%B1%D0%B0%D0%BD%D0%B8%21%3BCiao%21+%28%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95%29%EF%BE%89%2A%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7%3BSono+Kasra+Ghorbani%21%3B%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%21+%28%5E%E4%BA%BA%5E%29%3B%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%95%E0%A4%B8%E0%A4%B0%E0%A4%BE+%E0%A4%98%E0%A5%8B%E0%A4%B0%E0%A4%AC%E0%A4%BE%E0%A4%A8%E0%A5%80+%E0%A4%B9%E0%A5%82%E0%A4%81%21%3BMerhaba%21+%28%EF%BC%BE%E2%96%BD%EF%BC%BE%29%3BBen+Kasra+Ghorbani%21%3B%D8%B3%D9%84%D8%A7%D9%85%21+%28%E2%9D%9B%E2%97%A1%E2%9D%9B%E2%9C%BF%29%3B%D9%87%D8%B3%D8%AA%D9%85%21+Kasra+Ghorbani+%D9%85%D9%86%3B%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%21+%28%5E%EF%BC%90%5E%29%E3%83%8E%3BKasra+Ghorbani%EC%9E%85%EB%8B%88%EB%8B%A4%21" width="700" alt="Hi, I'm Kasra Ghorbani — greetings in eleven languages, with emoticons" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=DotGothic16&size=45&center=true&vCenter=true&width=700&height=80&duration=1500&color=FF10F0&background=0E0E0EFF&lines=Hi+There!+(＾◡＾)っ;I'm+Kasra+Ghorbani!;你好!+(ﾉ≧∀≦)ﾉ;我是Kasra+Ghorbani!;こんにちは!+(^▽^)/;Kasra+Ghorbaniです!;Hola!+(〜￣▽￣)〜;Soy+Kasra+Ghorbani!;Hallo!+(*≧ω≦)ノ;Ich+bin+Kasra+Ghorbani!;Привет!+(o^▽^o);Я+Касра+Горбани!;Ciao!+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧;Sono+Kasra+Ghorbani!;नमस्ते!+(^人^);मैं+कसरा+घोरबानी+हूँ!;Merhaba!+(＾▽＾);Ben+Kasra+Ghorbani!;سلام!+(❛◡❛✿);هستم!+Kasra+Ghorbani+من;안녕하세요!+(^０^)ノ;Kasra+Ghorbani입니다!;" alt="Greetings" />
+
 </h1>
 
-<p align="center">
-  <strong>Computer Engineering · University of Tehran</strong><br />
-  Final-year undergraduate interested in AI4Life and AI4Science.
-</p>
+<hr style="border: 1px solid #4dffff;" />
 
-<p align="center">
-  <a href="https://kasraghobrani.qzz.io">Website</a> ·
-  <a href="https://scholar.google.com/citations?user=-BiOaSAAAAAJ">Google Scholar</a> ·
-  <a href="https://www.linkedin.com/in/kasra-ghorbani-6a904b360">LinkedIn</a> ·
-  <a href="mailto:kasrauk82@gmail.com">Email</a>
-</p>
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Doto&amp;size=32&amp;duration=300&amp;pause=2200&amp;color=4DFFFF&amp;background=0D1117FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;height=54&amp;lines=Interests+%E2%95%B0%28%2A%C2%B0%E2%96%BD%C2%B0%2A%29%E2%95%AF" width="700" alt="Interests ╰(*°▽°*)╯" />
+<h2 align="center" style="color: #4da6ff;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=30&duration=3000&pause=1000&color=14FF00FF&background=6EFF3200&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=+Currently+studying+✍️(◔◡◔)" alt="currently" />
 </h2>
 
-<p align="center">
-  AI4Life · Computational Biology · Bioinformatics<br />
-  Machine Learning · Artificial Intelligence · Network Science
-</p>
+<h3 align="center" style="color: #a64dff;">
+  <img src="https://media.tenor.com/mvtw4AxWpgwAAAAj/pepe-le-pew-rotate.gif" alt="Pepe Rotate GIF" width="50" height="50" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=30&duration=3000&pause=500&color=a64dff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=500&height=100&repeat=false&lines=Computer+Science;University+of+Tehran" alt="Computer Science at University of Tehran" />
+  <img src="https://media.tenor.com/bw4mKWWIA5IAAAAj/peepo-pepe-the-frog.gif" alt="Pepe GIF" width="50" height="50" />
+</h3>
 
-<p align="center">
-  I work on chemical perturbation prediction, efficient deep learning, and rumor mitigation in networks.<br />
-  <a href="https://kasraghobrani.qzz.io/research.html">Research and papers ↗</a>
-</p>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Doto&amp;size=32&amp;duration=300&amp;pause=2200&amp;color=FFB86C&amp;background=0D1117FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;height=54&amp;lines=Languages+%26+tools+%C6%AA%28%CB%98%E2%8C%A3%CB%98%29%CA%83" width="700" alt="Languages &amp; tools ƪ(˘⌣˘)ʃ" />
+
+<hr style="border: 1px solid #ff4dff;" />
+
+<h2 align="center" style="color: #4dffff;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=40&duration=300&pause=1000&color=4dffff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Interests+╰(*°▽°*)╯" alt="interest" />
 </h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,pytorch,git,linux&amp;theme=dark&amp;perline=6" width="328" alt="Python, C, C++, PyTorch, Git, and Linux" /><br />
-  <img src="https://media.tenor.com/km-lY7Mlqc4AAAAj/typing-pepe-the-frog.gif" width="50" height="50" alt="Pepe typing" />
-</p>
+<div align="center" style="color: #4da6ff;">
+  <img src="https://media.tenor.com/2UkHz5-9U6UAAAAj/kaguya-sama-love-is-war-anime.gif" alt="Kaguya-sama GIF" width="50" height="50"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Iceberg&size=25&duration=100&pause=20color=4da6ff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=900&lines=AI4Life,+Computational+Biology,+Bioinformatics,+Machine+Learning+and+AI+(●ˇ∀ˇ●)" alt="Typing SVG" />
+  <img src="https://media.tenor.com/cCuJMyBKNQsAAAAj/chika-dance.gif" alt="Chika Dance" width="50" height="50" />
+</div>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Doto&amp;size=32&amp;duration=300&amp;pause=2200&amp;color=FF10F0&amp;background=0D1117FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;height=54&amp;lines=My+snake+%28%E2%9C%BF%E2%97%A1%E2%80%BF%E2%97%A1%29" width="700" alt="My snake (✿◡‿◡)" />
+<hr style="border: 1px solid #a64dff;" />
+
+<h2 align="center" style="color: #ff4dff;">
+  <img src="https://media.tenor.com/3kPGZrOLeiUAAAAj/pepe-the-frog-dancing.gif" alt="Pepe Dancing GIF" width="50" height="50" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=45&duration=15&pause=50&color=FFC9E8FF&background=6EFF3200&center=true&vCenter=true&multiline=true&width=500&height=100&lines=+📩Mail+me+(⌐■_■)" alt="Mail" />
+  <img src="https://media.tenor.com/o6R3yPv2Ri0AAAAj/ritz-balls-soyjak.gif" alt="Ritz Balls Soyjak GIF" width="50" height="50" />
 </h2>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KzrLancelotV2/KzrLancelotV2/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/KzrLancelotV2/KzrLancelotV2/output/github-snake.svg" width="100%" alt="An animated snake eating my GitHub contribution squares" />
-  </picture>
-</p>
 
-<details>
-  <summary>GitHub stats &amp; languages</summary>
-  <br />
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KzrLancelotV2&amp;show_icons=true&amp;theme=radical&amp;border_radius=10" width="390" alt="GitHub activity statistics" /><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzrLancelotV2&amp;layout=compact&amp;theme=radical&amp;border_radius=10" width="325" alt="Languages used in public GitHub repositories" />
-  </p>
-</details>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Doto&amp;size=32&amp;duration=300&amp;pause=2200&amp;color=C6A0F6&amp;background=0D1117FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;height=54&amp;lines=Mail+me+%28%E2%8C%90%E2%96%A0_%E2%96%A0%29" width="700" alt="Mail me (⌐■_■)" />
+
+
+
+<div align="center"> 
+  <a href="mailto:kasrauk82@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF3D00?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<hr style="border: 1px solid #4dffff;" />
+
+<h2 align="center" style="color: #4da6ff;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=25&duration=3000&pause=5000&color=FF6D32FF&background=6EFF3200&center=true&vCenter=true&multiline=true&width=900&height=50&lines=+%F0%9F%9B%A0%EF%B8%8F+Languages-Frameworks-Tools+ƪ(˘⌣˘)ʃ+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </h2>
 
-<p align="center">
-  <a href="mailto:kasrauk82@gmail.com">kasrauk82@gmail.com</a><br /><br />
-  <img src="https://media.tenor.com/3kPGZrOLeiUAAAAj/pepe-the-frog-dancing.gif" width="50" height="50" alt="Dancing Pepe" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" alt="Skills: Python, C, C++" />
+  <img src="https://media1.tenor.com/m/T2sk5f5h1UgAAAAC/peach-and-goma-peach-goma.gif" alt="Peach and Goma GIF" width="50" height="75" />
+</div>
+
+
+<hr style="border: 1px solid #a64dff;" />
+
+
+<div align="center" style="display: flex; align-items: center;">
+  <img src="https://media.tenor.com/km-lY7Mlqc4AAAAj/typing-pepe-the-frog.gif" alt="Typing Pepe GIF" width="50" height="50" />
+  <h2 style="color: #ff4dff; margin: 0 10px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2000&pause=500&color=ff4dff&background=6EFF3200&center=true&vCenter=true&multiline=true&width=500&lines=+My+Snake+(✿◡‿◡)+%F0%9F%90%8D" alt="Typing SVG" />
+  </h2>
+</div>
+<br/>
+
+<div align="center">
+  
+</div>
+
+![snake gif](https://github.com/KzrLancelotV2/KzrLancelotV2/blob/output/github-snake-dark.svg)
+
+
+
+
+<hr style="border: 1px solid #4dffff;" />
+
+<h2 align="center" style="color: #4da6ff;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&duration=15&pause=50&center=true&vCenter=true&width=600&height=50&color=CFFF04&lines=⚡+Stats+⚡" alt="Stats" />
+</h2>
+
+<div align="center">
+  <img src="https://media.tenor.com/8RrxHRlcVSMAAAAi/pepe-intello.gif" alt="Pepe Intello GIF" width="50" height="50" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=KzrLancelotV2&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
+<br/>
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzrLancelotV2&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  <img src="https://media.tenor.com/zWCFMJWI1UIAAAAi/pepe-the-frog-not-my-problem.gif" alt="Pepe Not My Problem GIF" width="100" height="100" />
+</div>
+
+
+
+
+<hr style="border: 1px solid #ff4dff;" />
